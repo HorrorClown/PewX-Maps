@@ -1,0 +1,28 @@
+<meta>
+    <file src="excalibursign.txd" />
+    <file src="luxorpillar1.txd" />
+    <file src="vgncarshade1.txd" />
+    <file src="gta_tree_palm.txd" />
+    <file src="veg_palm03.dff" />
+    <script src="marker.lua" />
+	<script src="script_c.lua" type="client" />
+    <script src="txd.lua" type="client" />
+    <info gamemodes="race" type="map" name="[DD]HorrorClown - Kill everybody III" author="HorrorClown" version="2.0.0"></info>
+    <map src="[DD]HorrorClown-Kill_Everybody_III.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="0:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 5 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#waveheight" value="[ 0.160000 ]"></setting>
+        <setting name="#weather" value="[ 13 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;none&quot; ]'></setting>
+    </settings>
+</meta>
