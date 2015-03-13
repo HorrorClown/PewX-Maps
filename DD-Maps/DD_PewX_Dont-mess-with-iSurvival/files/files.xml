@@ -1,0 +1,54 @@
+<files>
+	<skins>
+		<file src="zombieSkins/9.txd"/>
+		<file src="zombieSkins/10.txd"/>
+		<file src="zombieSkins/13.txd"/>
+		<file src="zombieSkins/14.txd"/>
+		<file src="zombieSkins/16.txd"/>
+		<file src="zombieSkins/20.txd"/>
+		<file src="zombieSkins/195.txd"/>
+		<file src="zombieSkins/196.txd"/>
+		<file src="zombieSkins/197.txd"/>
+		<file src="zombieSkins/199.txd"/>
+		<file src="zombieSkins/200.txd"/>
+		<file src="zombieSkins/203.txd"/>
+		<file src="zombieSkins/204.txd"/>
+		<file src="zombieSkins/205.txd"/>
+		<file src="zombieSkins/234.txd"/>
+		<file src="zombieSkins/235.txd"/>
+		<file src="zombieSkins/236.txd"/>
+		<file src="zombieSkins/237.txd"/>
+		<file src="zombieSkins/238.txd"/>
+		<file src="zombieSkins/241.txd"/>
+		<file src="zombieSkins/242.txd"/>
+		<file src="zombieSkins/243.txd"/>
+		<file src="zombieSkins/244.txd"/>
+		<file src="zombieSkins/245.txd"/>
+		<file src="zombieSkins/264.txd"/>	
+		
+		<file src="zombieSkins/9.dff"/>
+		<file src="zombieSkins/10.dff"/>
+		<file src="zombieSkins/13.dff"/>
+		<file src="zombieSkins/14.dff"/>
+		<file src="zombieSkins/16.dff"/>
+		<file src="zombieSkins/20.dff"/>
+		<file src="zombieSkins/195.dff"/>
+		<file src="zombieSkins/196.dff"/>
+		<file src="zombieSkins/197.dff"/>
+		<file src="zombieSkins/199.dff"/>
+		<file src="zombieSkins/200.dff"/>
+		<file src="zombieSkins/203.dff"/>
+		<file src="zombieSkins/204.dff"/>
+		<file src="zombieSkins/205.dff"/>
+		<file src="zombieSkins/234.dff"/>
+		<file src="zombieSkins/235.dff"/>
+		<file src="zombieSkins/236.dff"/>
+		<file src="zombieSkins/237.dff"/>
+		<file src="zombieSkins/238.dff"/>
+		<file src="zombieSkins/241.dff"/>
+		<file src="zombieSkins/242.dff"/>
+		<file src="zombieSkins/243.dff"/>
+		<file src="zombieSkins/244.dff"/>
+		<file src="zombieSkins/245.dff"/>
+	</skins>
+</files>
