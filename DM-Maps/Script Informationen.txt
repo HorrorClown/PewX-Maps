@@ -1,0 +1,9 @@
+Einige DM Maps nutzen Events, die eventuell nicht auf allen Servern verfügbar sind. Dies kann zu
+diversen Beeinträchtigungen oder zu einer nicht spielbaren Map führen.
+
+Für Fragen stehe ich im MTA Forum (mta-sa.org) zur verfügung. Support für Scripts gebe ich
+jedoch nicht über private Nachrichten. Fehler müssen selbst oder mit Hilfe der Community aus
+dem MTA Forum gefunden und gelöst werden.
+
+Weiterhin ist zu beachten, dass die Scripts keineswegs Resourcenschonend bzw. gut gescriptet wurden und lediglich
+ihre Funktion erfüllen.
