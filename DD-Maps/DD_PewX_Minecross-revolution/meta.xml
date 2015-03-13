@@ -1,0 +1,44 @@
+<meta>
+    <file src="1271.txd" validate="true" />
+    <file src="shaders/old_film.fx" validate="true" />
+    <file src="tarzan.mp3" validate="true" />
+    <file src="slender.mp3" validate="true" />
+    <file src="slender.jpg" validate="true" />
+	<file src="files/block.col" />
+    <file src="files/block.dff" />
+    <file src="files/grass.txd" />
+    <file src="files/cobblestone.txd" />
+    <file src="files/stone.txd" />
+    <file src="files/wood.txd" />
+	<file src="files/steve.txd" />
+	<file src="files/steve.dff" />
+	<file src="files/slenderman.txd" />
+	<file src="files/slenderman.dff" />
+	
+	<script src="dd.lua"></script>
+    <script src="ddc.lua" type="client" cache="false"></script>
+    <script src="shader.lua" type="client" cache="false" />
+    <script src="replace.lua" type="client" cache = "false"/>
+
+    <info gamemodes="race" type="map" name="[DD]PewX - Minecross revolution" author="PewX" version="1.0.0"></info>
+    <map src="DD_PewX_Minecross-revolution.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="0:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 5 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000003799796104 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;none&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>
