@@ -1,0 +1,33 @@
+<meta>
+    <file src="files/nitro.fx" type="client" />
+    <file src="files/skidmarks.fx" type="client" />
+    <file src="files/block_world.fx" type="client" />
+    <file src="files/mta-helper.fx" type="client" />
+    <file src="files/PixelShad.fx" type="client" />
+    <script src="marker.lua" type="server" />
+    <script src="actions/nitro.lua" type="client" />
+    <script src="actions/darkness.lua" type="client" />
+    <script src="actions/brightness.lua" type="client" />
+    <script src="actions/skidmarks.lua" type="client" />
+    <script src="actions/DiscoSlow.lua" type="client" />
+    <script src="actions/DiscoSpeed.lua" type="client" />
+    <script src="actions/cartoon.lua" type="client" />
+    <info gamemodes="race" type="map" name="[DD]HorrorClown - DD Controlled" author="HorrorClown" version="1.0.0" description="=)"></info>
+    <map src="[DD]HorrorClown-DD_Controlled.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;cj&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008000 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 5 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;none&quot; ]'></setting>
+    </settings>
+</meta>
