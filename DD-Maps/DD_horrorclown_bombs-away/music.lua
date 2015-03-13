@@ -1,0 +1,1 @@
+playSound("http://www.irace-mta.de/servermusic/mapmusic/horrorclown_bombs-away.mp3", true)
