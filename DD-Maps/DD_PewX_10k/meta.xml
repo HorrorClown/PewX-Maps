@@ -1,0 +1,33 @@
+<meta>
+    <script src="s10k.lua" />
+    <script src="c10k.lua" type="client" />
+    <file src="files/1271.txd" />
+    <file src="files/648.dff" />
+    <file src="files/622.dff" />
+    <file src="files/648.txd" />
+    <file src="files/622.txd" />
+    <file src="files/grey.dff" />
+    <file src="files/brown.dff" />
+    <file src="files/vgncarshade1.txd" />
+    <info gamemodes="race" type="map" name="[DD]PewX - 10.000" author="PewX" version="1.0.0"></info>
+    <map src="DD_PewX_10k.map" dimension="0"></map>
+    <settings>
+        <setting name="#skins" value='[ &quot;random&quot; ]'></setting>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#ghostmode" value='[ &quot;false&quot; ]'></setting>
+        <setting name="#time" value="12:0"></setting>
+        <setting name="#vehicleweapons" value='[ &quot;true&quot; ]'></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000003799796104 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#respawntime" value="[ 5 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#duration" value="[ 1800 ]"></setting>
+        <setting name="#respawn" value='[ &quot;none&quot; ]'></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>
