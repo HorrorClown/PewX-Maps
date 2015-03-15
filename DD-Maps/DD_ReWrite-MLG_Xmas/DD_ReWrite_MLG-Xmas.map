@@ -1,0 +1,59 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (skyscrapn203) (1)" breakable="true" interior="0" alpha="255" model="4587" doublesided="false" scale="1" dimension="0" posX="3734.3" posY="-4484.5" posZ="-52.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (skyscrapn203) (2)" breakable="true" interior="0" alpha="255" model="4587" doublesided="false" scale="1" dimension="0" posX="3718.1001" posY="-4536.2002" posZ="-52.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (skyscrapn203) (3)" breakable="true" interior="0" alpha="255" model="4587" doublesided="false" scale="1" dimension="0" posX="3769.5" posY="-4552.3999" posZ="-52.2" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (skyscrapn203) (4)" breakable="true" interior="0" alpha="255" model="4587" doublesided="false" scale="1" dimension="0" posX="3784.3999" posY="-4509" posZ="-52.2" rotX="0" rotY="0" rotZ="359.995"></object>
+    <object id="object (skyscrapn203) (5)" breakable="true" interior="0" alpha="255" model="4587" doublesided="false" scale="1" dimension="0" posX="3789.6001" posY="-4466.2002" posZ="-52.2" rotX="0" rotY="0" rotZ="39.989"></object>
+    <object id="object (skyscrapn203) (6)" breakable="true" interior="0" alpha="255" model="4587" doublesided="false" scale="1" dimension="0" posX="3734.8999" posY="-4460.5" posZ="-52.2" rotX="0" rotY="0" rotZ="179.985"></object>
+    <object id="object (LAskyscrap2_LAn) (1)" breakable="true" interior="0" alpha="255" model="4564" doublesided="false" scale="1" dimension="0" posX="3697.8999" posY="-4473.5" posZ="-102.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (LAskyscrap2_LAn) (2)" breakable="true" interior="0" alpha="255" model="4564" doublesided="false" scale="1" dimension="0" posX="3689.8" posY="-4562.5" posZ="-102.2" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (LAskyscrap2_LAn) (3)" breakable="true" interior="0" alpha="255" model="4564" doublesided="false" scale="1" dimension="0" posX="3650.1001" posY="-4562" posZ="-102.2" rotX="0" rotY="0" rotZ="178"></object>
+    <object id="object (LAskyscrap2_LAn) (4)" breakable="true" interior="0" alpha="255" model="4564" doublesided="false" scale="1" dimension="0" posX="3652" posY="-4505.3999" posZ="-102.2" rotX="0" rotY="0" rotZ="177.995"></object>
+    <object id="object (LAskyscrap2_LAn) (5)" breakable="true" interior="0" alpha="255" model="4564" doublesided="false" scale="1" dimension="0" posX="3684.5" posY="-4473.5" posZ="-103.8" rotX="14" rotY="0" rotZ="269.995"></object>
+    <spawnpoint id="spawnpoint (Windsor) (1)" vehicle="555" posX="3723.6001" posY="-4516.7998" posZ="7.7" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (2)" vehicle="555" alpha="255" interior="0" posX="3706.3999" posY="-4491.5" posZ="7.7" rotX="0" rotY="0" rotZ="50"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (4)" vehicle="555" alpha="255" interior="0" posX="3716.2" posY="-4465.2002" posZ="7.7" rotX="0" rotY="0" rotZ="169.999"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (5)" vehicle="555" alpha="255" interior="0" posX="3698.6001" posY="-4472.7998" posZ="7.7" rotX="0" rotY="0" rotZ="229.997"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (6)" vehicle="555" alpha="255" interior="0" posX="3724.7" posY="-4483.8999" posZ="7.7" rotX="0" rotY="0" rotZ="199.993"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (7)" vehicle="555" alpha="255" interior="0" posX="3759.6001" posY="-4453.1001" posZ="7.7" rotX="0" rotY="2.25" rotZ="139.74"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (8)" vehicle="555" alpha="255" interior="0" posX="3730.5" posY="-4464.7998" posZ="7.7" rotX="0" rotY="2.247" rotZ="219.735"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (9)" vehicle="555" alpha="255" interior="0" posX="3735.1001" posY="-4447.8999" posZ="7.7" rotX="0" rotY="2.241" rotZ="219.732"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (10)" vehicle="555" alpha="255" interior="0" posX="3753.8" posY="-4493.5" posZ="7.7" rotX="0" rotY="2.241" rotZ="289.732"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (11)" vehicle="555" alpha="255" interior="0" posX="3736.8" posY="-4490.7002" posZ="7.7" rotX="0" rotY="2.236" rotZ="179.731"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (12)" vehicle="555" alpha="255" interior="0" posX="3761" posY="-4470.7002" posZ="7.7" rotX="0" rotY="2.23" rotZ="179.731"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (13)" vehicle="555" alpha="255" interior="0" posX="3699.3999" posY="-4518.8999" posZ="7.7" rotX="0" rotY="2.23" rotZ="259.731"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (14)" vehicle="555" alpha="255" interior="0" posX="3798.7" posY="-4513.2002" posZ="7.7" rotX="0" rotY="2.225" rotZ="329.728"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (15)" vehicle="555" alpha="255" interior="0" posX="3769.5" posY="-4519.8999" posZ="7.7" rotX="0" rotY="2.219" rotZ="39.727"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (16)" vehicle="555" alpha="255" interior="0" posX="3745.3" posY="-4541.3999" posZ="7.7" rotX="0" rotY="2.214" rotZ="17.727"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (17)" vehicle="555" alpha="255" interior="0" posX="3789" posY="-4543.1001" posZ="7.7" rotX="0" rotY="2.214" rotZ="107.726"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (18)" vehicle="555" alpha="255" interior="0" posX="3751.3" posY="-4557.1001" posZ="7.7" rotX="0" rotY="2.214" rotZ="257.721"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (19)" vehicle="555" alpha="255" interior="0" posX="3723.8999" posY="-4544.3999" posZ="7.7" rotX="0" rotY="2.214" rotZ="37.717"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (20)" vehicle="555" alpha="255" interior="0" posX="3784.1001" posY="-4485.1001" posZ="7.7" rotX="0" rotY="2.214" rotZ="77.716"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (21)" vehicle="555" alpha="255" interior="0" posX="3792.1001" posY="-4437.1001" posZ="7.7" rotX="0" rotY="2.214" rotZ="177.712"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (22)" vehicle="555" alpha="255" interior="0" posX="3819.8" posY="-4464.6001" posZ="7.7" rotX="0" rotY="2.214" rotZ="77.709"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (23)" vehicle="555" alpha="255" interior="0" posX="3812.3" posY="-4488.7998" posZ="7.7" rotX="0" rotY="2.214" rotZ="77.706"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (24)" vehicle="555" alpha="255" interior="0" posX="3811" posY="-4529.6001" posZ="7.7" rotX="0" rotY="2.214" rotZ="77.706"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (25)" vehicle="555" alpha="255" interior="0" posX="3765.7" posY="-4538.2998" posZ="7.7" rotX="0" rotY="2.214" rotZ="77.706"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (26)" vehicle="555" alpha="255" interior="0" posX="3734.3999" posY="-4527.5" posZ="7.7" rotX="0" rotY="2.214" rotZ="147.706"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (27)" vehicle="555" alpha="255" interior="0" posX="3757.3" posY="-4518.8999" posZ="7.7" rotX="0" rotY="2.214" rotZ="147.706"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (28)" vehicle="555" alpha="255" interior="0" posX="3793.8" posY="-4461.2998" posZ="7.7" rotX="0" rotY="2.214" rotZ="147.706"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (29)" vehicle="555" alpha="255" interior="0" posX="3812.1001" posY="-4462.7002" posZ="7.7" rotX="0" rotY="2.214" rotZ="297.706"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (30)" vehicle="555" alpha="255" interior="0" posX="3805" posY="-4436.2002" posZ="7.7" rotX="0" rotY="2.214" rotZ="297.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (31)" vehicle="555" alpha="255" interior="0" posX="3707.3999" posY="-4439.7002" posZ="7.7" rotX="0" rotY="2.214" rotZ="297.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (32)" vehicle="555" alpha="255" interior="0" posX="3706.3" posY="-4508.7998" posZ="7.7" rotX="0" rotY="2.214" rotZ="297.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (33)" vehicle="555" alpha="255" interior="0" posX="3719.5" posY="-4534.8999" posZ="7.7" rotX="0" rotY="2.214" rotZ="297.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (34)" vehicle="555" alpha="255" interior="0" posX="3724.6001" posY="-4565.7998" posZ="7.7" rotX="0" rotY="2.214" rotZ="297.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (35)" vehicle="555" alpha="255" interior="0" posX="3790.3" posY="-4507.8999" posZ="7.7" rotX="0" rotY="2.214" rotZ="297.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (36)" vehicle="555" alpha="255" interior="0" posX="3813.5" posY="-4519" posZ="7.7" rotX="0" rotY="2.214" rotZ="297.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (37)" vehicle="555" alpha="255" interior="0" posX="3773.6001" posY="-4544.5" posZ="7.7" rotX="0" rotY="2.214" rotZ="167.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (38)" vehicle="555" alpha="255" interior="0" posX="3755.5" posY="-4569.1001" posZ="7.7" rotX="0" rotY="2.214" rotZ="167.701"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (39)" vehicle="555" alpha="255" interior="0" posX="3712" posY="-4520" posZ="7.7" rotX="0" rotY="2.214" rotZ="167.701"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (40)" vehicle="555" alpha="255" interior="0" posX="3737.7" posY="-4504.7998" posZ="7.7" rotX="0" rotY="2.214" rotZ="227.701"></spawnpoint>
+    <spawnpoint id="spawnpoint (Windsor) (41)" vehicle="555" alpha="255" interior="0" posX="3801.1001" posY="-4474.7998" posZ="7.7" rotX="0" rotY="180" rotZ="84.712"></spawnpoint>
+    <object id="object (visagesign04) (1)" breakable="true" interior="0" alpha="255" model="3554" doublesided="false" scale="1" dimension="0" posX="3677.8999" posY="-4534.5" posZ="-10" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Dinghy) (1)" vehicle="473" posX="3676.7" posY="-4534.6001" posZ="0.9" rotX="0" rotY="0" rotZ="270"></spawnpoint>
+    <object id="object (visagesign04) (2)" breakable="true" interior="0" alpha="0" model="3554" doublesided="false" scale="1" dimension="0" posX="3677.2" posY="-4531.6001" posZ="0" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (visagesign04) (3)" breakable="true" interior="0" alpha="0" model="3554" doublesided="false" scale="1" dimension="0" posX="3682.3" posY="-4533.6001" posZ="0" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (visagesign04) (5)" breakable="true" interior="0" alpha="0" model="3554" doublesided="false" scale="1" dimension="0" posX="3677.2" posY="-4537.3999" posZ="0" rotX="0" rotY="0" rotZ="181.25"></object>
+    <object id="object (visagesign04) (6)" breakable="true" interior="0" alpha="0" model="3554" doublesided="false" scale="1" dimension="0" posX="3671.5" posY="-4534.3999" posZ="0" rotX="0" rotY="0" rotZ="271.247"></object>
+</map>
